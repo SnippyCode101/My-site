@@ -1,2 +1,2 @@
 # My-site
-My first website using css
+My first website using CSS
